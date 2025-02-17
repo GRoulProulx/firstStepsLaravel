@@ -32,8 +32,7 @@
 
 </head>
 
-<body>
-
+<body class="sub-page">
     <div class="hero_area">
         <div class="bg-box">
             <img src="images/hero-bg.jpg" alt="">
@@ -152,7 +151,7 @@
                                             No Main Topic <br> Fast food reinvented
                                         </h1>
                                         <p>
-                                            Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
+                                            Fast food reinvented isn’t just about slapping a new label on a burger or adding kale to a salad. It’s a revolution in how we think about convenience, flavor, and sustainability. Imagine a world where your drive-thru meal is crafted with locally sourced ingredients.
                                         </p>
                                         <div class="btn-box">
                                             <a href="/book" class="btn1">
@@ -173,7 +172,7 @@
                                             N M T <br> Fast food for the soul
                                         </h1>
                                         <p>
-                                            Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
+                                            It’s not a trend, it’s a shift. A blur of flavors, ideas, and possibilities, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde. Tempora ex doloremque, labore, sunt repellat dolore, iste magni quos nihil ducimus libero ipsam.
                                         </p>
                                         <div class="btn-box">
                                             <a href="/book" class="btn1">
@@ -371,7 +370,7 @@
 
     <!-- end offer section -->
 
-   
+
     <!-- client section -->
 
     <section class="client_section layout_padding-bottom">

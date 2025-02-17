@@ -140,7 +140,7 @@
     </div>
 
     @yield('content')
-    
+
     <!-- footer section -->
     <footer class="footer_section">
         <div class="container">
@@ -166,7 +166,7 @@
                             <a href="">
                                 <i class="fa fa-envelope" aria-hidden="true"></i>
                                 <span>
-                                    demo@gmail.com
+                                    NMT2023@gmail.com
                                 </span>
                             </a>
                         </div>
@@ -178,7 +178,7 @@
                             No Main Topic
                         </a>
                         <p>
-                            Necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with
+                            What does it mean to eat fast in a world that’s slowing down? NMT. Just ideas, just food, just now.
                         </p>
                         <div class="footer_social">
                             <a href="">
@@ -214,9 +214,9 @@
             <div class="footer-info">
                 <p>
                     &copy; <span id="displayYear"></span> All Rights Reserved By
-                    <a href="https://html.design/">Free Html Templates</a><br><br>
+                    <a href="https://html.design/">NMT</a><br><br>
                     &copy; <span id="displayYear"></span> Distributed By
-                    <a href="https://themewagon.com/" target="_blank">ThemeWagon</a>
+                    <a href="https://themewagon.com/" target="_blank">NMT.inc</a>
                 </p>
             </div>
         </div>

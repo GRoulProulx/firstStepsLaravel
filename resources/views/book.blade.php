@@ -56,7 +56,15 @@
             </div>
             <div class="col-md-6">
                 <div class="map_container ">
-                
+                    
+                        @isset($data)
+                        <p><strong>Your name</strong> : {{ $data->name ?? '' }}</p>
+                        <p><strong>Your Phone number : </strong>{{ $data->phone ?? ''  }}</p>
+                        <p><strong>Your email : </strong>{{ $data->email ?? ''  }}</p>
+                        <p>Your reservation has <strong>{{ $data->person ?? ''  }}</strong> people booked</p>
+                        <p><strong>You reservation is dated for :</strong> {{ $data->date ?? ''  }}</p>
+                        @endisset
+                    
                 </div>
             </div>
         </div>
