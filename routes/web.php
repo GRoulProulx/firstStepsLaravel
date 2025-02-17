@@ -14,12 +14,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
-
-Route::get('/index', [RestaurantController::class, 'index']);
+Route::get('/', [RestaurantController::class, 'index']);
 Route::get('/about', [RestaurantController::class, 'about']);
 Route::get('/book', [RestaurantController::class, 'book']);
 Route::get('/menu', [RestaurantController::class, 'menu']);
